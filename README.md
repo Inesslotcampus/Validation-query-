@@ -11,6 +11,8 @@ Pour afficher liste table : faire des requêtes.
 - ORDER BY : ordre croissant par def
 - ORDER BY champ DESC : ordre décroissant
 - GROUP BY :grouper
+- WHERE= condition
+- HAVING=
 
 
 ## Fonction 
