@@ -1,4 +1,10 @@
+
 # Validation-query-
+
+
+## Architecture site web 
+
+https://stph.scenari-community.org/bdd/lap5/res/3-tierExemplePhp.jpg
 
 Pour afficher liste table : faire des requêtes.
 
